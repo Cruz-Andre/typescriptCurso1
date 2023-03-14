@@ -12,7 +12,11 @@
 - Modificadores de acesso private e public; :white_check_mark:
 - Benefícios iniciais da linguagem TypeScript. :white_check_mark:
 ### Aula 3:
-- 
+- O tipo implícito any; :white_check_mark:
+- Benefícios da tipagem estática; :white_check_mark:
+- Mais configurações do compilador tsc; :white_check_mark:
+- Retorno de método explícito; :white_check_mark:
+- Conversão de valores da interface do usuário. :white_check_mark:
 ### Aula 4:
 - 
 ### Aula 5 final:
