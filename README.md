@@ -6,7 +6,11 @@
 - Modelagem de uma Negociação em Javascript; :white_check_mark:
 - Buracos em nossa modelagem por limitações da linguagem Javascript. :white_check_mark:
 ### Aula 2:
-- 
+- Download do TypeScript; :white_check_mark:
+- Configuração do compilador e papel do tsconfig.json; :white_check_mark:
+- Integração com scripts do Node.js; :white_check_mark:
+- Modificadores de acesso private e public; :white_check_mark:
+- Benefícios iniciais da linguagem TypeScript. :white_check_mark:
 ### Aula 3:
 - 
 ### Aula 4:
@@ -29,7 +33,7 @@
 - `Bootstrap`
 
 ## 🛠️ Abrir e rodar o projeto
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm run server` para inicar o projeto.
+Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm run start` para inicar o projeto.
 
 ## 📚 Mais informações do curso
 Busque na plataforma da Alura o curso **TypeScript parte 1: evoluindo seu JavaScript** publicado na Escola Frontend.
