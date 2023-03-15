@@ -18,7 +18,12 @@
 - Retorno de método explícito; :white_check_mark:
 - Conversão de valores da interface do usuário. :white_check_mark:
 ### Aula 4:
-- 
+- Modelagem da classe Negociações; :white_check_mark:
+- Utilização de Generics; :white_check_mark:
+- Revisão sobre encapsulamento; :white_check_mark:
+- Questões de mutabilidade e como solucioná-la; :white_check_mark:
+- O tipo ReadonlyArray; :white_check_mark:
+- Adição de negociações em nossa lista. :white_check_mark:
 ### Aula 5 final:
 - 
 
