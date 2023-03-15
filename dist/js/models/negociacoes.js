@@ -6,6 +6,6 @@ export class Negociacoes {
         this.negociacoes.push(negociacao);
     }
     lista() {
-        return this.negociacoes; // o ReadonlyArray retorna uma lista somente leitura, pois não queremos modificar negociações pq é private!
+        return this.negociacoes;
     }
 }

@@ -9,8 +9,13 @@ export class Negociacao {
     this._valor = valor
   }
 
+/* o mesmo que acima (linhas 2 a 10) assistir os vídeos da aula 5
+  constructor(private data: Date, private quantidade: number, private valor: number) {}
+*/
+
   get data(): Date {
-    return this._data
+    const data = new Date(this._data.getTime())
+    return data
   }
 
   get quantidade(): number {

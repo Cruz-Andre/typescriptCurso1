@@ -25,7 +25,11 @@
 - O tipo ReadonlyArray; :white_check_mark:
 - Adição de negociações em nossa lista. :white_check_mark:
 ### Aula 5 final:
-- 
+- Nova maneira de declaração de array com generics; :white_check_mark:
+- O tipo ReadonlyArray; :white_check_mark:
+- O modificador readonly; :white_check_mark:
+- Getters vs propriedades públicas em modo de leitura; :white_check_mark:
+- Programação defensiva. :white_check_mark:
 
 ## 🔨 A saber sobre o curso
 - Aprenda a configurar do zero seu ambiente
