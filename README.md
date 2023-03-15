@@ -46,7 +46,7 @@
 - `Bootstrap`
 
 ## 🛠️ Abrir e rodar o projeto
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm run start` para inicar o projeto.
+Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm run start` para iniciar o projeto.
 
 ## 📚 Mais informações do curso
 Busque na plataforma da Alura o curso **TypeScript parte 1: evoluindo seu JavaScript** publicado na Escola Frontend.
